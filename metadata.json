@@ -1,0 +1,7 @@
+{
+  "name": "Potato Slicer Quality Control",
+  "description": "Industrial shop-floor application for monitoring potato slice thickness using OCR report extraction and automated specification validation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
